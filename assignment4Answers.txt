@@ -1,0 +1,7 @@
+1. bubble sort makes more swaps than insertion or selection sort, and writing takes more time than reading
+2. selection sort always performs O(n) swaps, while insertion sort runs more efficiently the more sorted the array already is
+3. A custom class needs some form of comparative values. 
+These algorithms are known as comparative sorting algorithms, 
+and you would need to implement a comparison operator in C++
+
+4. std::sort is faster on a fundamental level because it uses more efficient algorithms, as well as probably being well optimized
